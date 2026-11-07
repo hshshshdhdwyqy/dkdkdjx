@@ -1,0 +1,14 @@
+.env
+*.session
+*.session-journal
+self_config.json
+venv/
+__pycache__/
+*.log
+games.db
+hub_sessions/
+hub_configs/
+hub.db
+banners/
+hub_games.db
+.env.tmp

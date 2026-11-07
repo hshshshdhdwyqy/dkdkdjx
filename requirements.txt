@@ -1,0 +1,12 @@
+telethon
+requests
+deep-translator
+gTTS
+edge-tts
+python-dotenv
+Pillow
+yt-dlp
+SpeechRecognition
+tzdata
+arabic-reshaper
+python-bidi
